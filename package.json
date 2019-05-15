@@ -80,6 +80,6 @@
     "ytdl-core": "^0.29.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node bot.js"
   }
 }
